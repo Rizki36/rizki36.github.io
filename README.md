@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Fitra. <img src="./icon/Hi.gif" width="25"></h2>
+<h2> Hey there! I'm Fitra. <img src="./img/Hi.gif" width="25"></h2>
 I am a new college student at Unhasy Jombang. i love code and technology 
 <hr style="margin-top: 15px;margin-bottom: 15px">   
 
