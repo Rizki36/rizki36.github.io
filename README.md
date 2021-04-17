@@ -1,31 +1,18 @@
-<style>
-    hr{
-        margin-top: 15px;
-        margin-bottom: 15px
-    }
-    img{
-        margin-left: 5px;
-        margin-right: 5px;
-    }
-    h2{
-        margin-bottom:10px
-    }
-</style>
 <h2> Hey there! I'm Fitra. <img src="./icon/Hi.gif" width="25"></h2>
 I am a new college student at Unhasy Jombang. i love code and technology 
-<hr>   
+<hr style="margin-top: 15px;margin-bottom: 15px">   
 
 <h2> Working 🚀</h2>
-    <img src="./img/php.png"/>
-    <img src="./img/git.png"/>
-    <img src="./img/javascript.png"/>
-<hr>   
+    <img style="margin-left: 5px;margin-right: 5px;" src="./img/php.png"/>
+    <img style="margin-left: 5px;margin-right: 5px;" src="./img/git.png"/>
+    <img style="margin-left: 5px;margin-right: 5px;" src="./img/javascript.png"/>
+<hr style="margin-top: 15px;margin-bottom: 15px">   
 
 <h2> Learning 📚</h2>
-    <img src="./img/react.png"/>
-    <img src="./img/laravel.png"/>
-    <img src="./img/csharp.png"/>
-<hr>   
+    <img style="margin-left: 5px;margin-right: 5px;" src="./img/react.png"/>
+    <img style="margin-left: 5px;margin-right: 5px;" src="./img/laravel.png"/>
+    <img style="margin-left: 5px;margin-right: 5px;" src="./img/csharp.png"/>
+<hr style="margin-top: 15px;margin-bottom: 15px">   
 
 
 <h2> My Contact 👦</h2>
