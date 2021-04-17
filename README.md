@@ -3,9 +3,9 @@ I am a new college student at Unhasy Jombang. i love code and technology
 <hr style="margin-top: 15px;margin-bottom: 15px">   
 
 <h2> Working 🚀</h2>
-    <img style="margin-left: 5px;margin-right: 5px;" src="./img/php.png"/>
-    <img style="margin-left: 5px;margin-right: 5px;" src="./img/git.png"/>
-    <img style="margin-left: 5px;margin-right: 5px;" src="./img/javascript.png"/>
+    <img style="margin-left: 5px;margin-right: 5px;display:inline-block" src="./img/php.png"/>
+    <img style="margin-left: 5px;margin-right: 5px;display:inline-block" src="./img/git.png"/>
+    <img style="margin-left: 5px;margin-right: 5px;display:inline-block" src="./img/javascript.png"/>
 <hr style="margin-top: 15px;margin-bottom: 15px">   
 
 <h2> Learning 📚</h2>
